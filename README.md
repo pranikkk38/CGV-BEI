@@ -2,6 +2,10 @@
 
 This repository contains the computer graphics lab work of all students of BEI (Bachelor of Engineering in Electronics, Communication and Information) at the Himalayan College of Engineering.
 
+## Important Warning
+
+**Warning:** Students must strictly follow the submission guidelines provided in this README. Failure to comply may result in your folders being moved to the "TO BE REMOVED" directory and subsequently removed from the repository.
+
 ## How to Contribute
 
 To contribute your lab work to this repository, please follow these steps:
